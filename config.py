@@ -14,7 +14,7 @@ class Config:
     MAIL_USE_TLS = False
     MAIL_USE_SSL = True
     MAIL_USERNAME = 'roderick.sholmes@gmail.com' # os.environ.get('MAIL_USERNAME')
-    MAIL_PASSWORD = 'risc1969' #os.environ.get('MAIL_PASSWORD')
+    MAIL_PASSWORD = 'CCCC' #os.environ.get('MAIL_PASSWORD')
 
     # administrator list
     ADMINS = ['roderick.sholmes@gmail.com']
