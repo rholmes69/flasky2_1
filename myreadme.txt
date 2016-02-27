@@ -1,0 +1,8 @@
+echo "make a copy of flasky directory"
+echo "cd to new directory"
+echo "create virtual environment"
+echo "activate virtual environment"
+echo "cd to requirements directory and run pip install -r dev.txt"
+echo "cd .."
+echo "run python manage.py db upgrade"
+echo "run python manage.py"
